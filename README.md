@@ -38,17 +38,13 @@ Backend in most developments, but I can frontend without crying.
 <p align="center">
   <img src="https://media.giphy.com/media/3XpZmraHn3IEL8IOtz/giphy.gif" width="350" />
 </p>
-
+<br/>
 <p align="center">
   <a href="https://vm.tiktok.com/ZMBsy8KQb/" target="_blank">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW80ODJ4emF0Ymllcms5MGp1Y3dyenZucW10OXU1bHU0dDh3bDhtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rS6A5gw1Jh3MXuuXMB/giphy.gif" width="350" alt="<Corrupted Save File>"/>
     <br/>
     <b>⚠️ DO NOT OPEN¡¡¡</b>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmE4bzdnYzdhZGs5NGFzeGFsMG0xYW91dW84cGM0cHg2Mzduamp1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rS6A5gw1Jh3MXuuXMB/giphy.gif width="400" alt="The Operator Awaits"/>
 </p>
 
 ---
