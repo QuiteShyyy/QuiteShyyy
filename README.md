@@ -42,8 +42,8 @@ Backend in most developments, but I can frontend without crying.
 
 <!-- GIF ORIGINAL QUE NO SE MOSTRABA -->
 <p align="center">
+ <img src="assets/download.gif" width="350" alt="<Corrupted Save File>"/>
   <a href="https://vm.tiktok.com/ZMBsy8KQb/" target="_blank">
-    <img src="assets/download.gif" width="350" alt="<Corrupted Save File>"/>
     <br/>
     <b>⚠️ DO NOT OPEN¡¡¡</b>
   </a>
