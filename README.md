@@ -48,7 +48,7 @@ Backend in most developments, but I can frontend without crying.
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/6Pci1vT.jpeg" width="400" alt="The Operator Awaits"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmE4bzdnYzdhZGs5NGFzeGFsMG0xYW91dW84cGM0cHg2Mzduamp1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rS6A5gw1Jh3MXuuXMB/giphy.gif width="400" alt="The Operator Awaits"/>
 </p>
 
 ---
