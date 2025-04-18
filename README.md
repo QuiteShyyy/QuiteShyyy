@@ -41,7 +41,7 @@ Backend in most developments, but I can frontend without crying.
 <br/>
 <p align="center">
   <a href="https://vm.tiktok.com/ZMBsy8KQb/" target="_blank">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW80ODJ4emF0Ymllcms5MGp1Y3dyenZucW10OXU1bHU0dDh3bDhtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rS6A5gw1Jh3MXuuXMB/giphy.gif" width="350" alt="<Corrupted Save File>"/>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWY1MzY3dTdseWNjb2Zuemc3aW91cWdudDczeGp1eGw1dzN4bGFsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJJ6E58EttmFqgLo96/giphy.gif" width="350" alt="<Corrupted Save File>"/>
     <br/>
     <b>⚠️ DO NOT OPEN¡¡¡</b>
   </a>
