@@ -5,10 +5,6 @@
 
 <h1 align="center">🧬 QuiteShyyy 🧬</h1>
 
-<!-- MOVER EL GIF AQUI -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3XpZmraHn3IEL8IOtz/giphy.gif" width="350" />
-</p>
 
 ---
 
