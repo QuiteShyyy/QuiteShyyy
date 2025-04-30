@@ -47,6 +47,8 @@ Backend in most developments, but I can frontend without crying.
     <br/>
     <b>⚠️ DO NOT OPEN¡¡¡</b>
   </a>
+  <img src="https://media.giphy.com/media/3XpZmraHn3IEL8IOtz/giphy.gif" width="350" />
+
 </p>
 
 ---
