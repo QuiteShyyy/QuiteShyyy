@@ -36,8 +36,7 @@ Backend in most developments, but I can frontend without crying.
 
 ### 📟 MEDIA ZONE
 
-<!-- GIF ORIGINAL QUE NO SE MOSTRABA -->
-<!--<p align="center">
+<p align="center">
  <img src="assets/download.gif" width="350" alt="<Corrupted Save File>"/>
   <a href="https://vm.tiktok.com/ZMBsy8KQb/" target="_blank">
     <br/>
